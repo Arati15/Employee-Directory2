@@ -19,3 +19,9 @@
   *[Contributing](#Contribution)
   *[Tests](#Tests) 
   *[Questions](#Contact-Information)
+
+  ---
+
+   ## Installation:
+
+  Clone repo from https://github.com/Arati15/Employee-Directory2 then npm install and npm start.
