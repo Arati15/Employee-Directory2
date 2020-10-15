@@ -15,7 +15,8 @@ class EmployeeDir extends Component {
     this.loadData()
   }
 
-  //Makes the connection to the API server to retrieve 25 random results
+  //Makes the connection to the API server 
+  //to retrieve 25 random results
   loadData = () => {
     axios.get("https://randomuser.me/api/?nat=us&results=15").then((result) => {
       // console.log(result.data.results)
