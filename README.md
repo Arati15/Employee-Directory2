@@ -9,3 +9,13 @@
   A directory that can be used to view current employees and their contact information. Employees can be searched by first or last name and sorted by last name as well.
 
 ![Employee-Directory](./Assets/Employee-directory.PNG)
+
+---
+
+ ## Table of Contents:
+  *[Installation](#Installation) 
+  *[Usage](#Usage)
+  *[License](#License)
+  *[Contributing](#Contribution)
+  *[Tests](#Tests) 
+  *[Questions](#Contact-Information)
