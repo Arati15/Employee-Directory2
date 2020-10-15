@@ -62,6 +62,8 @@ class EmployeeDir extends Component {
       }
       return 0;
     });
+    
+    //use to fine emailin sort order
     // let emailSort  = [...this.state.filteredArr].sort((a, b) => {
     //   if (a.email.toLowerCase() > b.email.toLowerCase()) {
     //     return -1;
