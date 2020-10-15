@@ -25,3 +25,9 @@
    ## Installation:
 
   Clone repo from https://github.com/Arati15/Employee-Directory2 then npm install and npm start.
+
+  ---
+
+   ## Contributing:
+
+  Clone repo from https://github.com/Arati15/Employee-Directory2 , make changes and then make a pull request.
